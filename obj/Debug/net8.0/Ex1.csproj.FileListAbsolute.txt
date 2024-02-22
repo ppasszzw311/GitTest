@@ -1,0 +1,14 @@
+/Users/makfichen14/Project/GitTest/Ex1/bin/Debug/net8.0/Ex1
+/Users/makfichen14/Project/GitTest/Ex1/bin/Debug/net8.0/Ex1.deps.json
+/Users/makfichen14/Project/GitTest/Ex1/bin/Debug/net8.0/Ex1.runtimeconfig.json
+/Users/makfichen14/Project/GitTest/Ex1/bin/Debug/net8.0/Ex1.dll
+/Users/makfichen14/Project/GitTest/Ex1/bin/Debug/net8.0/Ex1.pdb
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/Ex1.AssemblyInfoInputs.cache
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/Ex1.AssemblyInfo.cs
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/Ex1.csproj.CoreCompileInputs.cache
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/Ex1.dll
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/refint/Ex1.dll
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/Ex1.pdb
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/Ex1.genruntimeconfig.cache
+/Users/makfichen14/Project/GitTest/Ex1/obj/Debug/net8.0/ref/Ex1.dll
